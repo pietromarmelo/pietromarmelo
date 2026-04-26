@@ -22,12 +22,15 @@ name: Pietro Marmelo
 role: Senior DevOps Engineer
 company: Cochlear
 focus:
+  - DevOps/DevSecOps
   - Cloud Infrastructure
   - Infrastructure as Code
   - CI/CD Automation
   - Linux Systems
   - Docker & Containers
   - AWS Engineering
+  - Security
+  - Compliance
 </pre>
 
 <hr>
