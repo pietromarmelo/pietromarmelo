@@ -9,9 +9,10 @@
 <table>
     <tbody>
         <tr>
-            <td><a href="https://www.terraform.io/">
+          <font color=orange>  
+          <td><a href="https://www.terraform.io/">
             <img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" />
-            </a></td>
+            </a></td></font>
             <td><a href="https://www.docker.com/">
             <img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" />
             </a></td>
