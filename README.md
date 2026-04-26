@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Pietro Marmelo - GitHub Profile</title>
 </head>
 
 <body>
